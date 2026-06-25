@@ -34,8 +34,7 @@ This build is wired to LawConnect's production MCP endpoint,
 `https://mcp.ask.lawconnect.com/consumer` (see `.mcp.json`). The endpoint is an open
 lead-generation funnel protected at the edge.
 
-## Source of truth
+## Generated — do not edit
 
-The skill and the generator that produces this directory live in the `lawconnect-mono`
-repository under `apps/claude-plugin`. Do not hand-edit files in a generated plugin directory —
-regenerate instead.
+This directory is generated and kept in sync automatically. Do not hand-edit files here — changes
+are overwritten when the plugin is regenerated.
