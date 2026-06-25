@@ -3,7 +3,7 @@
   "owner": {
     "name": "LawConnect"
   },
-  "description": "LawConnect Navigator plugins — one per environment. Each bundles the legal-advisor skill and the matching LawConnect MCP server.",
+  "description": "LawConnect Navigator — guided legal intake that helps you connect with a specialist Australian lawyer. Bundles the legal-advisor skill and the LawConnect MCP server.",
   "plugins": [
     {
       "name": "lawconnect",

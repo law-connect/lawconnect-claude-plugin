@@ -37,7 +37,6 @@ and connect with, one. **Australia-focused.**
 
 ## Generated mirror — do not edit by hand
 
-This repository is **generated** and synced by automation from the
-[`lawconnect-mono`](https://github.com/law-connect/lawconnect-mono) monorepo
-(`apps/claude-plugin` generator + the `apps/mcp-consumer-server` skill, the single source of truth).
-Hand edits here are overwritten on the next sync — change the source in the monorepo and regenerate.
+This repository is a **generated mirror**, built and kept in sync automatically from LawConnect's
+internal source of truth. **Do not edit files here by hand** — changes are overwritten on the next
+sync.
