@@ -1,0 +1,11 @@
+{
+  "name": "lawconnect",
+  "description": "LawConnect Navigator — walks you through a legal situation and helps you connect with a specialist Australian lawyer.",
+  "version": "0.1.0",
+  "author": {
+    "name": "LawConnect",
+    "url": "https://lawconnect.com"
+  },
+  "homepage": "https://lawconnect.com",
+  "repository": "https://github.com/law-connect/lawconnect-mono"
+}
